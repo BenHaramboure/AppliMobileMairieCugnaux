@@ -13,11 +13,8 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
     //test
     // test2
     //test Pierre
-<<<<<<< HEAD
     //test
     //Test Ben
-=======
     //test Evan
     //es jrd
->>>>>>> origin/master
 }
