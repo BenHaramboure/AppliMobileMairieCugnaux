@@ -12,4 +12,5 @@ public class ApplicationTest extends ApplicationTestCase<Application> {
     }
     //Je suis un cochon de lait
     //test2
+    //Je suis un thug (test depuis mon pc)
 }
